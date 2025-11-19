@@ -1,0 +1,10 @@
+08:15:43 **** Incremental Build of configuration Debug for project STAND_BY_MODE ****
+make -j12 all 
+arm-none-eabi-size  STAND_BY_MODE.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11092	     12	   1644	  12748	   31cc	STAND_BY_MODE.elf
+Finished building: default.size.stdout
+ 
+
+08:15:44 Build Finished. 0 errors, 0 warnings. (took 277ms)
+

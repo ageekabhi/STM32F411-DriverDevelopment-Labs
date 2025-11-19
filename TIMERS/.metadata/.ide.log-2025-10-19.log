@@ -1,0 +1,345 @@
+2025-10-20 00:20:59,511 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 778280240 Bytes (985661440)
+2025-10-20 00:20:59,675 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-20 00:20:59,675 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-20 00:20:59,675 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-20 00:20:59,675 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-20 00:20:59,675 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-20 00:20:59,675 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-20 00:20:59,751 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp_save
+2025-10-20 00:20:59,945 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp
+2025-10-20 00:20:59,975 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp_save
+2025-10-20 00:21:00,089 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp
+2025-10-20 00:21:00,207 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c_save
+2025-10-20 00:21:00,371 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c
+2025-10-20 00:21:00,374 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h_save
+2025-10-20 00:21:00,436 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h
+2025-10-20 00:21:00,450 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-20 00:21:00,566 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c
+2025-10-20 00:21:00,569 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp_save
+2025-10-20 00:21:00,637 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp
+2025-10-20 00:21:00,647 [INFO] CodeEngine:321 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-20 00:21:00,703 [INFO] CodeEngine:345 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-20 00:21:00,728 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-20 00:21:00,728 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-20 00:21:00,735 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h_save
+2025-10-20 00:21:00,812 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h
+2025-10-20 00:21:00,816 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c_save
+2025-10-20 00:21:00,888 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c
+2025-10-20 00:21:01,263 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 153mS.
+2025-10-20 00:21:01,265 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-20 00:21:01,323 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-10-20 00:21:01,915 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 650mS.
+2025-10-20 00:21:01,916 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-10-20 00:21:01,916 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:23:12,290 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 447859896 Bytes (985661440)
+2025-10-20 00:23:12,404 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-20 00:23:12,404 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-20 00:23:12,404 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-20 00:23:12,405 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-20 00:23:12,405 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-20 00:23:12,407 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-20 00:23:12,469 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp_save
+2025-10-20 00:23:12,515 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp
+2025-10-20 00:23:12,527 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp_save
+2025-10-20 00:23:12,582 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp
+2025-10-20 00:23:12,636 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c_save
+2025-10-20 00:23:12,685 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c
+2025-10-20 00:23:12,687 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h_save
+2025-10-20 00:23:12,732 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h
+2025-10-20 00:23:12,742 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-20 00:23:12,801 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c
+2025-10-20 00:23:12,804 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp_save
+2025-10-20 00:23:12,840 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp
+2025-10-20 00:23:12,845 [INFO] CodeEngine:321 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-20 00:23:12,882 [INFO] CodeEngine:345 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-20 00:23:12,897 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-20 00:23:12,899 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-20 00:23:12,906 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h_save
+2025-10-20 00:23:12,950 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h
+2025-10-20 00:23:12,954 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c_save
+2025-10-20 00:23:13,021 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c
+2025-10-20 00:23:13,159 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 50mS.
+2025-10-20 00:23:13,160 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-20 00:23:13,200 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-10-20 00:23:13,686 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 526mS.
+2025-10-20 00:23:13,687 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-10-20 00:23:13,689 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-10-20 00:27:09,795 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 426224456 Bytes (985661440)
+2025-10-20 00:27:09,942 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-20 00:27:09,942 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-20 00:27:09,942 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-20 00:27:09,942 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-20 00:27:09,942 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-20 00:27:09,942 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-20 00:27:10,042 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp_save
+2025-10-20 00:27:10,088 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp
+2025-10-20 00:27:10,097 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp_save
+2025-10-20 00:27:10,133 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp
+2025-10-20 00:27:10,168 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c_save
+2025-10-20 00:27:10,213 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c
+2025-10-20 00:27:10,215 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h_save
+2025-10-20 00:27:10,241 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h
+2025-10-20 00:27:10,241 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-20 00:27:10,297 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c
+2025-10-20 00:27:10,298 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp_save
+2025-10-20 00:27:10,328 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp
+2025-10-20 00:27:10,332 [INFO] CodeEngine:321 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-20 00:27:10,366 [INFO] CodeEngine:345 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-20 00:27:10,373 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-20 00:27:10,373 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-20 00:27:10,377 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h_save
+2025-10-20 00:27:10,414 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h
+2025-10-20 00:27:10,416 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c_save
+2025-10-20 00:27:10,465 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c
+2025-10-20 00:27:10,615 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 70mS.
+2025-10-20 00:27:10,616 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-20 00:27:10,655 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-10-20 00:27:11,051 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 435mS.
+2025-10-20 00:27:11,051 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:27:11,052 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:32:13,796 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 832284232 Bytes (985661440)
+2025-10-20 00:32:13,878 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-20 00:32:13,878 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-20 00:32:13,878 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-20 00:32:13,878 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-20 00:32:13,878 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-20 00:32:13,880 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-20 00:32:13,926 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp_save
+2025-10-20 00:32:13,959 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp
+2025-10-20 00:32:13,967 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp_save
+2025-10-20 00:32:14,012 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp
+2025-10-20 00:32:14,041 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c_save
+2025-10-20 00:32:14,088 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c
+2025-10-20 00:32:14,092 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h_save
+2025-10-20 00:32:14,128 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h
+2025-10-20 00:32:14,137 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-20 00:32:14,185 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c
+2025-10-20 00:32:14,187 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp_save
+2025-10-20 00:32:14,215 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp
+2025-10-20 00:32:14,219 [INFO] CodeEngine:321 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-20 00:32:14,253 [INFO] CodeEngine:345 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-20 00:32:14,263 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-20 00:32:14,264 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-20 00:32:14,270 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h_save
+2025-10-20 00:32:14,303 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h
+2025-10-20 00:32:14,306 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c_save
+2025-10-20 00:32:14,353 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c
+2025-10-20 00:32:14,485 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 48mS.
+2025-10-20 00:32:14,486 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-20 00:32:14,524 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-10-20 00:32:14,935 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 448mS.
+2025-10-20 00:32:14,935 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:32:14,937 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:33:18,831 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 714991832 Bytes (985661440)
+2025-10-20 00:33:18,903 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-20 00:33:18,903 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-20 00:33:18,903 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-20 00:33:18,903 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-20 00:33:18,903 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-20 00:33:18,904 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-20 00:33:18,954 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp_save
+2025-10-20 00:33:18,991 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp
+2025-10-20 00:33:18,998 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp_save
+2025-10-20 00:33:19,034 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp
+2025-10-20 00:33:19,062 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c_save
+2025-10-20 00:33:19,104 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c
+2025-10-20 00:33:19,109 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h_save
+2025-10-20 00:33:19,141 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h
+2025-10-20 00:33:19,146 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-20 00:33:19,189 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c
+2025-10-20 00:33:19,190 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp_save
+2025-10-20 00:33:19,220 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp
+2025-10-20 00:33:19,224 [INFO] CodeEngine:321 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-20 00:33:19,256 [INFO] CodeEngine:345 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-20 00:33:19,264 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-20 00:33:19,265 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-20 00:33:19,270 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h_save
+2025-10-20 00:33:19,322 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h
+2025-10-20 00:33:19,324 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c_save
+2025-10-20 00:33:19,372 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c
+2025-10-20 00:33:19,546 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 50mS.
+2025-10-20 00:33:19,547 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-20 00:33:19,585 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-10-20 00:33:19,950 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 403mS.
+2025-10-20 00:33:19,951 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-10-20 00:33:19,951 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:37:24,039 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 494643920 Bytes (985661440)
+2025-10-20 00:37:24,110 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-20 00:37:24,110 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-20 00:37:24,110 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-20 00:37:24,110 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-20 00:37:24,110 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-20 00:37:24,110 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-20 00:37:24,151 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp_save
+2025-10-20 00:37:24,185 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp
+2025-10-20 00:37:24,192 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp_save
+2025-10-20 00:37:24,226 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp
+2025-10-20 00:37:24,254 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c_save
+2025-10-20 00:37:24,298 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c
+2025-10-20 00:37:24,300 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h_save
+2025-10-20 00:37:24,334 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h
+2025-10-20 00:37:24,341 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-20 00:37:24,388 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c
+2025-10-20 00:37:24,389 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp_save
+2025-10-20 00:37:24,418 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp
+2025-10-20 00:37:24,422 [INFO] CodeEngine:321 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-20 00:37:24,460 [INFO] CodeEngine:345 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-20 00:37:24,470 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-20 00:37:24,471 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-20 00:37:24,475 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h_save
+2025-10-20 00:37:24,506 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h
+2025-10-20 00:37:24,509 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c_save
+2025-10-20 00:37:24,554 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c
+2025-10-20 00:37:24,681 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 49mS.
+2025-10-20 00:37:24,682 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-20 00:37:24,721 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-10-20 00:37:25,067 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 385mS.
+2025-10-20 00:37:25,067 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:37:25,068 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:42:28,609 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x280,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-20 00:42:30,146 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-20 00:42:30,880 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 874977704 Bytes (985661440)
+2025-10-20 00:42:32,408 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 328102064 Bytes (985661440)
+2025-10-20 00:42:34,514 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 393113776 Bytes (985661440)
+2025-10-20 00:42:34,631 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-20 00:42:34,631 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-20 00:42:34,631 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-20 00:42:34,631 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-20 00:42:34,631 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-20 00:42:34,632 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-20 00:42:34,726 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp_save
+2025-10-20 00:42:34,762 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp
+2025-10-20 00:42:34,770 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp_save
+2025-10-20 00:42:34,804 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp
+2025-10-20 00:42:34,828 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c_save
+2025-10-20 00:42:34,872 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c
+2025-10-20 00:42:34,876 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h_save
+2025-10-20 00:42:34,906 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h
+2025-10-20 00:42:34,910 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-20 00:42:34,954 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c
+2025-10-20 00:42:34,956 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp_save
+2025-10-20 00:42:34,985 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp
+2025-10-20 00:42:34,991 [INFO] CodeEngine:321 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-20 00:42:35,030 [INFO] CodeEngine:345 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-20 00:42:35,038 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-20 00:42:35,039 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-20 00:42:35,042 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h_save
+2025-10-20 00:42:35,075 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h
+2025-10-20 00:42:35,078 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c_save
+2025-10-20 00:42:35,127 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c
+2025-10-20 00:42:35,248 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 46mS.
+2025-10-20 00:42:35,249 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-20 00:42:35,285 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-10-20 00:42:35,630 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 381mS.
+2025-10-20 00:42:35,631 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:42:35,633 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:44:42,243 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-20 00:44:46,319 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-20 00:44:46,411 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-20 00:44:52,162 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-20 00:44:53,772 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 835480144 Bytes (985661440)
+2025-10-20 00:44:55,285 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 865297760 Bytes (985661440)
+2025-10-20 00:44:57,359 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 317548688 Bytes (985661440)
+2025-10-20 00:44:57,839 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-20 00:44:57,839 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-20 00:44:57,839 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-20 00:44:57,839 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-20 00:44:57,839 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-20 00:44:57,840 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-20 00:44:57,906 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp_save
+2025-10-20 00:44:58,020 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp
+2025-10-20 00:44:58,036 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp_save
+2025-10-20 00:44:58,101 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp
+2025-10-20 00:44:58,188 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c_save
+2025-10-20 00:44:58,252 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c
+2025-10-20 00:44:58,256 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h_save
+2025-10-20 00:44:58,306 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h
+2025-10-20 00:44:58,312 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-20 00:44:58,392 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c
+2025-10-20 00:44:58,396 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp_save
+2025-10-20 00:44:58,439 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp
+2025-10-20 00:44:58,448 [INFO] CodeEngine:321 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-20 00:44:58,498 [INFO] CodeEngine:345 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-20 00:44:58,519 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-20 00:44:58,520 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-20 00:44:58,526 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h_save
+2025-10-20 00:44:58,581 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h
+2025-10-20 00:44:58,585 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c_save
+2025-10-20 00:44:58,664 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c
+2025-10-20 00:44:58,843 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 82mS.
+2025-10-20 00:44:58,845 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-20 00:44:58,896 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-10-20 00:44:59,712 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 867mS.
+2025-10-20 00:44:59,712 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:44:59,713 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:49:18,841 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-20 00:49:19,775 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 644813896 Bytes (985661440)
+2025-10-20 00:49:21,443 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 667861136 Bytes (985661440)
+2025-10-20 00:49:23,166 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 706658448 Bytes (985661440)
+2025-10-20 00:49:23,241 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-20 00:49:23,241 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-20 00:49:23,242 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-20 00:49:23,242 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-20 00:49:23,242 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-20 00:49:23,243 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-20 00:49:23,282 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp_save
+2025-10-20 00:49:23,317 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp
+2025-10-20 00:49:23,330 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp_save
+2025-10-20 00:49:23,369 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp
+2025-10-20 00:49:23,400 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c_save
+2025-10-20 00:49:23,471 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c
+2025-10-20 00:49:23,477 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h_save
+2025-10-20 00:49:23,526 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h
+2025-10-20 00:49:23,536 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-20 00:49:23,601 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c
+2025-10-20 00:49:23,604 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp_save
+2025-10-20 00:49:23,643 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp
+2025-10-20 00:49:23,651 [INFO] CodeEngine:321 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-20 00:49:23,691 [INFO] CodeEngine:345 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-20 00:49:23,700 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-20 00:49:23,700 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-20 00:49:23,705 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h_save
+2025-10-20 00:49:23,738 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h
+2025-10-20 00:49:23,741 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c_save
+2025-10-20 00:49:23,804 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c
+2025-10-20 00:49:24,056 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 62mS.
+2025-10-20 00:49:24,057 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-20 00:49:24,094 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-10-20 00:49:24,533 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 476mS.
+2025-10-20 00:49:24,534 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-10-20 00:49:24,534 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:52:47,250 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-10-20 00:52:51,453 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 796148768 Bytes (985661440)
+2025-10-20 00:52:54,587 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 874788848 Bytes (985661440)
+2025-10-20 00:52:54,666 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-20 00:52:54,666 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-10-20 00:52:54,666 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-10-20 00:52:54,666 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-20 00:52:54,666 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-20 00:52:54,667 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-20 00:52:54,706 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp_save
+2025-10-20 00:52:54,739 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\license.tmp
+2025-10-20 00:52:54,746 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp_save
+2025-10-20 00:52:54,780 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\gpio.tmp
+2025-10-20 00:52:54,805 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c_save
+2025-10-20 00:52:54,851 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_it.c
+2025-10-20 00:52:54,855 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h_save
+2025-10-20 00:52:54,887 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_it.h
+2025-10-20 00:52:54,895 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c_save
+2025-10-20 00:52:54,954 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\stm32f4xx_hal_msp.c
+2025-10-20 00:52:54,956 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp_save
+2025-10-20 00:52:54,995 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\MXTmpFiles\system.tmp
+2025-10-20 00:52:55,005 [INFO] CodeEngine:321 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-10-20 00:52:55,044 [INFO] CodeEngine:345 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\stm32f4xx_hal_conf.h
+2025-10-20 00:52:55,051 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-10-20 00:52:55,053 [WARN] CodeGenerator:4259 - IP not found : null
+2025-10-20 00:52:55,056 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h_save
+2025-10-20 00:52:55,089 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Inc\main.h
+2025-10-20 00:52:55,090 [INFO] CodeEngine:265 - oldGeneratedFile, D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c_save
+2025-10-20 00:52:55,137 [INFO] CodeEngine:289 - Generated code: D:\CDAC\STM32_Practice\TIMERS\Dim_LED_0to100_100to0\Core\Src\main.c
+2025-10-20 00:52:55,262 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 51mS.
+2025-10-20 00:52:55,263 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-20 00:52:55,300 [INFO] ConfigFileManager:1595 - The Die is : DIE431
+2025-10-20 00:52:55,695 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 432mS.
+2025-10-20 00:52:55,696 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-10-20 00:52:55,696 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.

@@ -1,0 +1,12 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Sleep_Mode Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STAND_BY_MODE Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SLEEP_MODE_using_Interrupt Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STOP_MODE_INTERRUPT Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SLEEP_MODE_using_Interrupt\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SLEEP_MODE_using_Interrupt\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STAND_BY_MODE\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STAND_BY_MODE\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STOP_MODE_INTERRUPT\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Sleep_Mode\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Sleep_Mode\ Debug/activeLaunchTarget=null\:---

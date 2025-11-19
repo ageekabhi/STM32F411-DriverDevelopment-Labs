@@ -1,0 +1,10 @@
+23:28:50 **** Incremental Build of configuration Debug for project LDR_Reading1 ****
+make -j12 all 
+arm-none-eabi-size  LDR_Reading1.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9860	     12	   1716	  11588	   2d44	LDR_Reading1.elf
+Finished building: default.size.stdout
+ 
+
+23:28:50 Build Finished. 0 errors, 0 warnings. (took 262ms)
+

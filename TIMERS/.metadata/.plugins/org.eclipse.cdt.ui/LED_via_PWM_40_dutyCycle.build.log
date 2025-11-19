@@ -1,0 +1,10 @@
+15:41:57 **** Incremental Build of configuration Debug for project LED_via_PWM_40_dutyCycle ****
+make -j12 all 
+arm-none-eabi-size  LED_via_PWM_40_dutyCycle.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10296	     12	   1644	  11952	   2eb0	LED_via_PWM_40_dutyCycle.elf
+Finished building: default.size.stdout
+ 
+
+15:41:58 Build Finished. 0 errors, 0 warnings. (took 270ms)
+

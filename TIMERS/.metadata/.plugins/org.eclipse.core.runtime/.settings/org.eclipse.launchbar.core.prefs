@@ -1,0 +1,14 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Dim_LED_0to100_100to0 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LED_via_PWM_40_dutyCycle Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTC_BUZZER Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTC_Time_Date_On_SerialMonitor Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timers_2MIN_Interrupt Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIMER_0.6_To_0.4_ON_OFF Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Dim_LED_0to100_100to0\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Dim_LED_0to100_100to0\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTC_BUZZER\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTC_Time_Date_On_SerialMonitor\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:RTC_Time_Date_On_SerialMonitor\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIMER_0.6_To_0.4_ON_OFF\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIMER_0.6_To_0.4_ON_OFF\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIMER_2Min_interrupt\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timers_2MIN_Interrupt\ Debug/activeLaunchMode=run

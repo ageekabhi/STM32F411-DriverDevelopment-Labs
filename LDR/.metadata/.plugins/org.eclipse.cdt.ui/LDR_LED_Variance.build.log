@@ -1,0 +1,59 @@
+01:33:35 **** Incremental Build of configuration Debug for project LDR_LED_Variance ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F411xE -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:113:11: warning: implicit declaration of function 'sprintf' [-Wimplicit-function-declaration]
+  113 |           sprintf (buf,"The readings are %lu\n",adc_data);
+      |           ^~~~~~~
+../Core/Src/main.c:21:1: note: include '<stdio.h>' or provide a declaration of 'sprintf'
+   20 | #include "main.h"
+  +++ |+#include <stdio.h>
+   21 | 
+../Core/Src/main.c:113:11: warning: incompatible implicit declaration of built-in function 'sprintf' [-Wbuiltin-declaration-mismatch]
+  113 |           sprintf (buf,"The readings are %lu\n",adc_data);
+      |           ^~~~~~~
+../Core/Src/main.c:113:11: note: include '<stdio.h>' or provide a declaration of 'sprintf'
+../Core/Src/main.c:113:20: warning: pointer targets in passing argument 1 of 'sprintf' differ in signedness [-Wpointer-sign]
+  113 |           sprintf (buf,"The readings are %lu\n",adc_data);
+      |                    ^~~
+      |                    |
+      |                    uint8_t * {aka unsigned char *}
+../Core/Src/main.c:113:20: note: expected 'char *' but argument is of type 'uint8_t *' {aka 'unsigned char *'}
+../Core/Src/main.c:113:44: warning: format '%lu' expects argument of type 'long unsigned int', but argument 3 has type 'int' [-Wformat=]
+  113 |           sprintf (buf,"The readings are %lu\n",adc_data);
+      |                                          ~~^    ~~~~~~~~
+      |                                            |    |
+      |                                            |    int
+      |                                            long unsigned int
+      |                                          %u
+../Core/Src/main.c:114:43: warning: implicit declaration of function 'strlen' [-Wimplicit-function-declaration]
+  114 |           HAL_UART_Transmit(&huart2, buf, strlen(buf), 1000);
+      |                                           ^~~~~~
+../Core/Src/main.c:21:1: note: include '<string.h>' or provide a declaration of 'strlen'
+   20 | #include "main.h"
+  +++ |+#include <string.h>
+   21 | 
+../Core/Src/main.c:114:43: warning: incompatible implicit declaration of built-in function 'strlen' [-Wbuiltin-declaration-mismatch]
+  114 |           HAL_UART_Transmit(&huart2, buf, strlen(buf), 1000);
+      |                                           ^~~~~~
+../Core/Src/main.c:114:43: note: include '<string.h>' or provide a declaration of 'strlen'
+../Core/Src/main.c:114:50: warning: pointer targets in passing argument 1 of 'strlen' differ in signedness [-Wpointer-sign]
+  114 |           HAL_UART_Transmit(&huart2, buf, strlen(buf), 1000);
+      |                                                  ^~~
+      |                                                  |
+      |                                                  uint8_t * {aka unsigned char *}
+../Core/Src/main.c:114:50: note: expected 'const char *' but argument is of type 'uint8_t *' {aka 'unsigned char *'}
+arm-none-eabi-gcc -o "LDR_LED_Variance.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\CDAC\STM32_Practice\LDR\LDR_LED_Variance\STM32F411RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="LDR_LED_Variance.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: LDR_LED_Variance.elf
+ 
+arm-none-eabi-size  LDR_LED_Variance.elf 
+arm-none-eabi-objdump -h -S LDR_LED_Variance.elf  > "LDR_LED_Variance.list"
+   text	   data	    bss	    dec	    hex	filename
+  13140	     92	   2044	  15276	   3bac	LDR_LED_Variance.elf
+Finished building: default.size.stdout
+ 
+Finished building: LDR_LED_Variance.list
+ 
+
+01:33:36 Build Finished. 0 errors, 7 warnings. (took 1s.35ms)
+

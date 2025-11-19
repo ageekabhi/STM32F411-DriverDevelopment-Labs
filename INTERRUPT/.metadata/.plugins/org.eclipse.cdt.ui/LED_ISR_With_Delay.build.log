@@ -1,0 +1,10 @@
+01:44:03 **** Incremental Build of configuration Debug for project LED_ISR_With_Delay ****
+make -j12 all 
+arm-none-eabi-size  LED_ISR_With_Delay.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7164	     44	   1580	   8788	   2254	LED_ISR_With_Delay.elf
+Finished building: default.size.stdout
+ 
+
+01:44:04 Build Finished. 0 errors, 0 warnings. (took 263ms)
+

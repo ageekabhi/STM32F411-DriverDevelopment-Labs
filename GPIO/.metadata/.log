@@ -1,0 +1,39 @@
+!SESSION 2025-10-11 16:32:01.363 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-10-11 16:32:25.717
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-10-11 16:32:25.721
+!MESSAGE Log4j2 initialized with config file D:\CDAC\STM32_Practice\GPIO\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-10-11 16:32:43.441
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-11 16:33:48.643
+!MESSAGE Indexed 'Blink_LED' (19 sources, 81 headers) in 2.94 sec: 4,323 declarations; 18,412 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0088%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-11 16:47:12.698
+!MESSAGE Indexed 'Blink_External_LED_and_Onboard_LED' (20 sources, 82 headers) in 1.3 sec: 4,801 declarations; 22,954 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0072%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-11 17:12:49.311
+!MESSAGE Indexed 'Blink_LED_LightsMultiple' (20 sources, 82 headers) in 1.51 sec: 4,801 declarations; 22,954 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0072%)
+!SESSION 2025-10-18 23:50:39.035 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\CDAC\STM32_Practice\GPIO
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-10-18 23:50:44.227
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-10-18 23:50:44.227
+!MESSAGE Log4j2 initialized with config file D:\CDAC\STM32_Practice\GPIO\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-10-18 23:50:55.376
+!MESSAGE Started RMI Server, listening on port 41337
